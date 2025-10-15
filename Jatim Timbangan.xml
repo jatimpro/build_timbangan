@@ -1,0 +1,560 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JatimTimbangan
+</name>
+</assembly>
+<members>
+<member name="P:Jatim_Timbangan.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Jatim_Timbangan.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Jatim_Timbangan.My.Resources.Resources.free3of9">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="T:Jatim_Timbangan.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.contractDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.freightDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.freight_costDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.laborDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.stockpileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.stockpile_contractDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.unloading_costDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.userDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vehicleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vendorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vendor_handlingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vendor_handling_costDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.surattugasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.shipmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.salesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.customerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxStockpileContractDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxvehicleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxsupplierfreightDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxvendor_handlingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.user_stockpileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trx2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transaction_timbanganDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transaction_loadingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxLoadingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.master_vesselDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transaction_timbangan_revDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.mutasi_headerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.pictrxDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.contractRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.freightRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.freight_costRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.laborRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.stockpileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.stockpile_contractRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.unloading_costRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.userRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vehicleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vendorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vendor_handlingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vendor_handling_costRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.surattugasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.shipmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.salesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.customerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxStockpileContractRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxvehicleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxsupplierfreightRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxvendor_handlingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.user_stockpileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trx2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transaction_timbanganRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transaction_loadingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxLoadingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.master_vesselRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transaction_timbangan_revRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.mutasi_headerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.pictrxRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.contractRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.freightRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.freight_costRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.laborRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.stockpileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.stockpile_contractRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.unloading_costRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.userRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vehicleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vendorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vendor_handlingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.vendor_handling_costRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.surattugasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.shipmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.salesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.customerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxStockpileContractRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxvehicleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxsupplierfreightRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxvendor_handlingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.user_stockpileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trx2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transaction_timbanganRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transaction_loadingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.trxLoadingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.master_vesselRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.transaction_timbangan_revRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.mutasi_headerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet.pictrxRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.contractTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.freightTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.freight_costTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.laborTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.stockpileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.stockpile_contractTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.transactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.unloading_costTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.userTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.vehicleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.vendorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.vendor_handlingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.vendor_handling_costTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.surattugasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.shipmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.salesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.customerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.trxTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.trxStockpileContractTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.trxvehicleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.trxsupplierfreightTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.trxvendor_handlingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.user_stockpileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.trx2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.transaction_timbanganTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.transaction_loadingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.trxLoadingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.master_vesselTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.transaction_timbangan_revTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.mutasi_headerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.pictrxTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Jatim_Timbangan.jatim_timbanganDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Jatim_Timbangan.jatim_timbanganDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Jatim_Timbangan.jatim_timbanganDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.TableAdapterManager.UpdateAll(Jatim_Timbangan.jatim_timbanganDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Jatim_Timbangan.jatim_timbanganDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
