@@ -123,7 +123,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>qApQnZXYl4lFPPmVLd6+ZdCU5DM=</dsig:DigestValue>
+        <dsig:DigestValue>YaFM7l3AB/ZLEmZn8O9z0D2iB6k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -171,19 +171,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>YxTnLopJ41xcaMySfj/4jN5l8XM=</dsig:DigestValue>
+        <dsig:DigestValue>09p0Dr7rf0ldvQUiEAPZl7NzyZg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jatim Timbangan.exe" size="2271232">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jatim Timbangan.exe" size="2272768">
       <assemblyIdentity name="Jatim Timbangan" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>vS1HZ/PhS+nz9KaBA146vAOO63s=</dsig:DigestValue>
+        <dsig:DigestValue>jFvOlnPMRJuHQhAGAXNxUbSKs/E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
